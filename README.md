@@ -5,7 +5,10 @@
 
 ## Tecnologias utilizadas
 
-- [AngularJS]
+- [AngularJS](https://angular.io/)
+- [Angular Map Components](https://angular-maps.com/)
+- [MaterialIO](https://material.io/)
+- [Firebase](https://firebase.google.com/)
 
 ## Code scaffolding
 
