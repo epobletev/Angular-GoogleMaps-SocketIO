@@ -1,6 +1,6 @@
 
 import { Component, OnInit } from '@angular/core';
-import { WebsocketService } from '../websocket.service';
+import { WebsocketService } from '../services/websocket.service';
 
 @Component({
     selector: 'app-marker',
@@ -16,9 +16,6 @@ export class MarkerComponent implements OnInit{
         longitude : -70.611713,
         zoom : 15
     }
-    // defaultLatitude = -33.462033;
-    // defaultLongitude = -70.611713;
-    // zoom = 15;
     inputLatitude = 0
     inputLongitude = 0
     myData:any;
