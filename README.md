@@ -3,9 +3,9 @@
 #### Aplicacion 
 - [Pagina Web](https://front-end-allride.web.app/) hosteada en Firebase
 
-## Aplicacio
+## Tecnologias utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [AngularJS]
 
 ## Code scaffolding
 
