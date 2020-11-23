@@ -14,7 +14,7 @@ import { MatInputModule } from '@angular/material/input';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    AgmCoreModule.forRoot({apiKey:'AIzaSyBijq-Dt_AeCnL-DRkNWLkqEmtrpgJCYKo'}),
+    AgmCoreModule.forRoot({apiKey:'API-KEY'}),
     FormsModule,
     MatButtonModule,
     MatInputModule
