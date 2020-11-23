@@ -1,6 +1,6 @@
 
 import { Component, OnInit } from '@angular/core';
-import { WebsocketService } from '../services/websocket.service';
+import { WebsocketService } from '../websocket.service';
 
 @Component({
     selector: 'app-marker',
