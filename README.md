@@ -1,5 +1,3 @@
-# Evaluacion tecninca All Ride
-### Front End Angular 8+
 #### Aplicacion 
 - [Pagina Web](https://front-end-allride.web.app/) hosteada en Firebase
 
