@@ -1,5 +1,5 @@
 #### Aplicacion 
-- [Pagina Web](https://front-end-allride.web.app/) hosteada en Firebase
+- [Pagina Web](https://maps-socketio.web.app/) hosteada en Firebase
 
 ## Tecnologias utilizadas
 
